@@ -3,7 +3,7 @@ title: Şimşek ZEYTİNCİLİK
 email: suleyman4598@icloud.com
 url: https://simsekzeytincilik.github.io
 description: "Ege'den Sofranıza Meşhur AKHİSAR ZEYTİNLERİ - Şimşek ZEYTİNCİLİK"
-keywords: "your keywords, separated by commas"
+keywords: "zeytin, siyah zeytin, yeşil zeytin, salamura, organik zeytin,doğal zeytin, iri zeytin"
 skills: "Ege'den Sofranıza Meşhur AKHİSAR ZEYTİNLERİ"
 meta_author: Süleyman ŞİMŞEK
 
@@ -39,16 +39,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  #- title: github
-  #  url: http://github.com/jekyll
+  - title: instagram
+    url: https://www.instagram.com/simsekzeytincilik/
+  #- title: facebook
+  #  url:
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+  - title: phone
+    url: https://api.whatsapp.com/send?phone=905396213029
 
 # Postal address (add as many lines as necessary)
 address:
@@ -56,7 +56,7 @@ address:
   - line: Akhisar / Manisa
 
 # Credits content
-credits: 'Gittigidiyor <br/> Hepsiburada <br> n11'
+credits: '<a href="https://www.gittigidiyor.com/magaza/guvenltdtur"><b>Gittigidiyor Mağaza</b></a>'
 
 # Build settings
 markdown: kramdown
