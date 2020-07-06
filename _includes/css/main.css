@@ -6,6 +6,7 @@
 
 body {
     overflow-x: hidden;
+    background-image: url(img/olive-bg.png);
 }
 
 p {
